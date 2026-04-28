@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+**/.DS_Store
+ 
+# Dataset — download separately (see README)
+carnatic_varnam_1.0/
+ 
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+ 
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+env/
+ 
+# Jupyter Book build
+_build/
+ 
+# Audio / large media
+*.wav
+*.mp3

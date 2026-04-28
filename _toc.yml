@@ -1,0 +1,6 @@
+# Jupyter Book table of contents
+format: jb-book
+root: docs/intro
+chapters:
+  - file: notebooks/alpaca
+    title: "VMM-C Pipeline"
